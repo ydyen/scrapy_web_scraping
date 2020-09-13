@@ -29,3 +29,7 @@ Run crawler.py
 ```
 scrapy crawl Whirlaway
 ```
+Run formSpider.py
+```
+scrapy crawl horseForm
+```
